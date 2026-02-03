@@ -10,4 +10,6 @@ los archivos que tengan etiqueta (de upload) "archivos de vmSharedFiles" son aqu
 que deben de estar en una carpeta llamada "/vmSharedFiles/QuEST-main/"
 asi podran quedar acorde a lo que se muestra en el documento de word que subi aqui al repositorio
 
+Las VM's se encuentran de manera individual en sus respectivas carpetas: Apolo1 y Apolo2
+
 muchas gracias.
