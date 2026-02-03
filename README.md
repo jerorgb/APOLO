@@ -4,7 +4,8 @@ por las limitaciones de los medios que tengo actualmente me vi obligado a enviar
 no funcionaron para nada
 ademas, GitHub no permite cargar archivos de mas de 25MB o mas de 100 archivos a la vez
 
-extiendo disculpas por no poder enviar las respuestas de manera adecuada aunque queria cumplir con los tiempos
+extiendo disculpas por no poder enviar las respuestas de manera adecuada aunque queria cumplir con los tiempos, estoy
+dispuesto a plantear un encuentro en donde pueda explicarles a detalle y justificar todo lo que se ve en mis respuestas
 
 los archivos que tengan etiqueta (de upload) "archivos de vmSharedFiles" son aquellos
 que deben de estar en una carpeta llamada "/vmSharedFiles/QuEST-main/"
